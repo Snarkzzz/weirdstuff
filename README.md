@@ -1,0 +1,2 @@
+# weirdstuff
+Research of OCR
